@@ -1,4 +1,4 @@
-# lora
+# lora笔记
  
 * [Lora-CAD空中唤醒功能实现](https://github.com/danieldong101/lora/wiki/Lora-CAD空中唤醒功能实现)   
 * [Lora-LoraWAN资料归总](https://github.com/danieldong101/lora/wiki/Lora-LoraWAN资料归总)   

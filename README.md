@@ -1,4 +1,4 @@
-# lora笔记
+## lora笔记
  
 * [Lora-CAD空中唤醒功能实现](https://github.com/danieldong101/lora/wiki/Lora-CAD空中唤醒功能实现)   
 * [Lora-LoraWAN资料归总](https://github.com/danieldong101/lora/wiki/Lora-LoraWAN资料归总)   
@@ -10,3 +10,8 @@
 * [Lora-波特率计算](https://github.com/danieldong101/lora/wiki/Lora-波特率计算)  
 * [Lora-知识点汇总](https://github.com/danieldong101/lora/wiki/Lora-知识点汇总)  
 * [Lora-载波频率计算](https://github.com/danieldong101/lora/wiki/Lora-载波频率计算)  
+
+## 参考资料   
+[协议翻译](http://blog.csdn.net/qingchuwudi/article/details/50786289)   
+[lora联盟](https://www.lora-alliance.org/lorawan-for-developers)   
+[应用笔记](http://blog.csdn.net/iotisan/article/details/53930458)
